@@ -170,7 +170,7 @@
     "bots": false
   },
   "ChestESP": {
-    "toggled": true,
+    "toggled": false,
     "key": 27,
     "hidden": false,
     "chest": "FFFFAA",
@@ -289,7 +289,7 @@
     "toggled": true,
     "key": 0,
     "hidden": true,
-    "color": "CUSTOM1",
+    "color": "CUSTOM12",
     "color-speed": 1.0,
     "color-saturation": 56,
     "color-brightness": 100,
