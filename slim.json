@@ -54,6 +54,15 @@
     "mode": "BLINK",
     "distance": 5.0
   },
+  "CleanChat": {
+    "toggled": true,
+    "key": 0,
+    "hidden": false,
+    "no-background": false,
+    "background-opacity": 42,
+    "font-shadow": true,
+    "fade-blur": true
+  },
   "AutoClicker": {
     "toggled": true,
     "key": 0,
@@ -114,7 +123,7 @@
     "show-progress": "DEFAULT"
   },
   "BedESP": {
-    "toggled": true,
+    "toggled": false,
     "key": 0,
     "hidden": true,
     "mode": "DEFAULT",
@@ -223,7 +232,8 @@
     "direction-check": true,
     "pitch-check": true,
     "blocks-only": true,
-    "sneaking-only": false
+    "sneaking-only": false,
+    "block-counter": true
   },
   "ESP": {
     "toggled": false,
@@ -371,8 +381,8 @@
     "sword-slot": 1,
     "pickaxe-slot": 3,
     "shovel-slot": 4,
-    "axe-slot": 5,
-    "blocks-slot": 2,
+    "axe-slot": 9,
+    "blocks-slot": 5,
     "blocks": 128,
     "projectile-slot": 7,
     "projectiles": 64,
@@ -431,7 +441,7 @@
   },
   "KillAura": {
     "toggled": false,
-    "key": 19,
+    "key": 27,
     "hidden": false,
     "mode": "SINGLE",
     "sort": "HEALTH",
@@ -442,17 +452,17 @@
     "auto-block-range": 5.1,
     "swing-range": 4.4,
     "attack-range": 4.4,
-    "fov": 146,
+    "fov": 192,
     "min-aps": 7,
-    "max-aps": 14,
+    "max-aps": 12,
     "switch-delay": 329,
-    "rotations": "SILENT",
+    "rotations": "LEGIT",
     "move-fix": "SILENT",
-    "smoothing": 5,
+    "smoothing": 11,
     "angle-step": 90,
     "through-walls": false,
     "require-press": false,
-    "allow-mining": true,
+    "allow-mining": false,
     "weapons-only": true,
     "allow-tools": false,
     "inventory-check": true,
