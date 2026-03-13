@@ -231,7 +231,7 @@
     "block-counter": false
   },
   "ESP": {
-    "toggled": false,
+    "toggled": true,
     "key": 0,
     "hidden": true,
     "mode": "2D",
@@ -242,7 +242,7 @@
     "enemies": true,
     "self": false,
     "bots": false,
-    "image-fill": false
+    "image-fill": true
   },
   "FastPlace": {
     "toggled": false,
@@ -301,12 +301,12 @@
     "toggled": true,
     "key": 0,
     "hidden": true,
-    "color": "CUSTOM1",
+    "color": "CUSTOM12",
     "color-speed": 0.9,
     "color-saturation": 52,
     "color-brightness": 100,
     "custom-color-1": "006FFF",
-    "custom-color-2": "FF6536",
+    "custom-color-2": "AD36FF",
     "custom-color-3": "FFFFFF",
     "position-x": "RIGHT",
     "position-y": "TOP",
