@@ -55,7 +55,7 @@
     "distance": 8.0
   },
   "CleanChat": {
-    "toggled": false,
+    "toggled": true,
     "key": 0,
     "hidden": false,
     "no-background": true,
@@ -273,7 +273,7 @@
     "vertical-speed": 1.0
   },
   "Fullbright": {
-    "toggled": true,
+    "toggled": false,
     "key": 0,
     "hidden": true,
     "mode": "GAMMA"
@@ -330,7 +330,7 @@
     "toggle-sounds": true,
     "toggle-alerts": false,
     "show-watermark": true,
-    "show-session-info": true,
+    "show-session-info": false,
     "session-position-x": "LEFT",
     "session-position-y": "TOP",
     "session-offset-x": 0,
