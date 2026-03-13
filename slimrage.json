@@ -452,7 +452,7 @@
     "auto-block-range": 3.1,
     "swing-range": 3.1,
     "attack-range": 3.1,
-    "fov": 360,
+    "fov": 121,
     "min-aps": 7,
     "max-aps": 10,
     "switch-delay": 150,
