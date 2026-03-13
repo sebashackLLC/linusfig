@@ -57,7 +57,7 @@
   "CleanChat": {
     "toggled": true,
     "key": 0,
-    "hidden": false,
+    "hidden": true,
     "no-background": true,
     "background-opacity": 43,
     "font-shadow": true,
@@ -66,7 +66,7 @@
   "ChinaHat": {
     "toggled": true,
     "key": 0,
-    "hidden": false,
+    "hidden": true,
     "Height": 0.4,
     "Radius": 0.5
   },
@@ -189,7 +189,7 @@
   "ChestESP": {
     "toggled": true,
     "key": 0,
-    "hidden": false,
+    "hidden": true,
     "chest": "FFEBEB",
     "trapped-chest": "FFACAC",
     "ender-chest": "FFFFCF",
@@ -208,23 +208,10 @@
     "more-armor": false,
     "more-sword": false
   },
-  "Clutch": {
-    "toggled": true,
-    "key": 0,
-    "hidden": false,
-    "fall-distance": 1.0,
-    "extend": 3.2,
-    "min-blocks": 61,
-    "multi-place": true,
-    "auto-switch": true,
-    "only-void": false,
-    "swing": true,
-    "rotations": true
-  },
   "CustomFont": {
     "toggled": true,
     "key": 0,
-    "hidden": false,
+    "hidden": true,
     "font": "Trebuchet MS",
     "size": 17,
     "offset-x": -2,
@@ -449,7 +436,7 @@
     "bot-check": true
   },
   "KillAura": {
-    "toggled": true,
+    "toggled": false,
     "key": 19,
     "hidden": false,
     "mode": "SINGLE",
@@ -820,7 +807,7 @@
   "Animations": {
     "toggled": true,
     "key": 0,
-    "hidden": false,
+    "hidden": true,
     "Mode": "Sigma",
     "Swing Slowdown": 15,
     "Old Damage": true,
